@@ -1,0 +1,1 @@
+print("A lightining flash:\nbetween the forest trees\nI have seen water \n\t -Shiki")
